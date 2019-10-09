@@ -1,0 +1,15 @@
+﻿            try
+            {
+                SQLiteConnection.CreateFile("data.sqlite");
+                SQLiteConnection my;
+                my = new SQLiteConnection("Data Source=data.sqlite;Version=3;");
+                my.Open();                                              
+                string sql = "Create Table mac(id integer Primary key AUTOINCREMENT,name varchar(500),inter varchar(500),mac_ad varchar(500),ip varchar(500),date varchar(500))";
+                SQLiteCommand comm = new SQLiteCommand(sql, my);
+                comm.ExecuteNonQuery();
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.ToString());
+            }

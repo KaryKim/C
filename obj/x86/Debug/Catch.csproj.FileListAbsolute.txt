@@ -1,0 +1,9 @@
+﻿H:\C#\new open\Network Analsist\IDS\open source\Host iPS - demo\Lan_Ids\bin\Debug\PacketDotNet.xml
+H:\C#\new open\Network Analsist\IDS\open source\Host iPS - demo\Lan_Ids\bin\Debug\SharpPcap.pdb
+H:\C#\new open\Network Analsist\IDS\open source\Host iPS - demo\Lan_Ids\bin\Debug\SharpPcap.xml
+H:\C#\new open\Network Analsist\IDS\open source\Host iPS - demo\Lan_Ids\bin\Debug\System.Data.SQLite.pdb
+
+C:\Users\yantao\Desktop\Catch-IDS-master\Lan_Ids\bin\Debug\入侵检测系统.exe
+C:\Users\yantao\Desktop\Catch-IDS-master\Lan_Ids\bin\Debug\入侵检测系统.pdb
+C:\Users\yantao\Desktop\Catch-IDS-master\Lan_Ids\obj\x86\Debug\入侵检测系统.exe
+C:\Users\yantao\Desktop\Catch-IDS-master\Lan_Ids\obj\x86\Debug\入侵检测系统.pdb

@@ -1,0 +1,29 @@
+12/6/2017 10:03:20 AM: Attacke Name : arp spofing , Time : 10:03 AM , Attacker HardwareAddress : D0011D440000 , Attacker ip address : 192.168.123.106
+12/6/2017 10:06:25 AM: Attacke Name : arp spofing , Time : 10:06 AM , Attacker HardwareAddress : D00111400000 , Attacker ip address : 192.168.123.106 
+12/6/2017 10:06:25 AM: Attacke Name : arp spofing , Time : 10:06 AM , Attacker HardwareAddress : D00111400000 , Attacker ip address : 192.168.123.106 
+12/6/2017 10:07:27 AM: Attacke Name : arp spofing , Time : 10:07 AM , Attacker HardwareAddress : D00111400000 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:02:35 AM: Attacke Name : arp spofing , Time : 3:02 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:03:20 AM: Attacke Name : arp spofing , Time : 3:03 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:04:04 AM: Attacke Name : arp spofing , Time : 3:04 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:05:01 AM: Attacke Name : arp spofing , Time : 3:05 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:07:13 AM: Attacke Name : arp spofing , Time : 3:07 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:07:59 AM: Attacke Name : arp spofing , Time : 3:07 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:08:00 AM: Attacke Name : arp spofing , Time : 3:08 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:34:38 AM: Attacke Name : arp spofing , Time : 3:34 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:35:23 AM: Attacke Name : arp spofing , Time : 3:35 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:52:27 AM: Attacke Name : arp spofing , Time : 3:52 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:52:29 AM: Attacke Name : arp spofing , Time : 3:52 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:52:35 AM: Attacke Name : arp spofing , Time : 3:52 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:53:00 AM: Attacke Name : arp spofing , Time : 3:53 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:53:24 AM: Attacke Name : arp spofing , Time : 3:53 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:53:49 AM: Attacke Name : arp spofing , Time : 3:53 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:54:16 AM: Attacke Name : arp spofing , Time : 3:54 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:54:41 AM: Attacke Name : arp spofing , Time : 3:54 AM , Attacker HardwareAddress : 000DB0049044 , Attacker ip address : 192.168.123.106 
+12/15/2017 3:57:44 PM: Attacke Name : DHCP spofing , Time : 3:57 PM , Attacker HardwareAddress : 000DB0049044  , Attacker ip address : 192.168.123.106  
+12/15/2017 3:58:41 PM: Attacke Name : DHCP spofing , Time : 3:58 PM , Attacker HardwareAddress : 000DB0049044  , Attacker ip address : 192.168.123.106  
+12/15/2017 3:59:21 PM: Attacke Name : DHCP spofing , Time : 3:59 PM , Attacker HardwareAddress : 000DB0049044  , Attacker ip address : 192.168.123.106  
+2017/12/23 23:31:14: Attacke Name : arp spofing , Time : 23:31 , Attacker HardwareAddress : C4365574F350 , Attacker ip address : 192.168.0.1 
+2017/12/23 23:31:53: Attacke Name : arp spofing , Time : 23:31 , Attacker HardwareAddress : C4365574F350 , Attacker ip address : 192.168.0.1 
+2017/12/23 23:49:40: Attacke Name : arp spofing , Time : 23:49 , Attacker HardwareAddress : C4365574F350 , Attacker ip address : 192.168.0.1 
+2017/12/23 23:53:11: Attacke Name : arp spofing , Time : 23:53 , Attacker HardwareAddress : C4365574F350 , Attacker ip address : 192.168.0.1 
+2017/12/23 23:54:00: Attacke Name : arp spofing , Time : 23:53 , Attacker HardwareAddress : C4365574F350 , Attacker ip address : 192.168.0.1 

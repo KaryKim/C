@@ -1,0 +1,14 @@
+80 tcp
+#You Are using Clear Text Protocol http Pleas Use secure Protocol Https
+21 tcp
+#You Are using Clear Text Protocol FTP Pleas Use secure Protocol like SFTP or FTPS
+143 tcp
+#You Are using Clear Text Protocol IMAP Pleas Use secure Protocol IMAP with ssl
+20 tcp
+#You Are using Clear Text Protocol FTP Pleas Use secure Protocol like SFTP or FTPS
+110 tcp
+#You Are using Clear Text Protocol POP3 Pleas Use secure Protocol POP3 with ssl
+23 tcp
+#You Are using Clear Text Protocol Telnet Pleas Use secure Protocol like SSH
+25 tcp
+#You Are using Clear Text Protocol SMTP Pleas Use secure Protocol SMTP with ssl

@@ -1,0 +1,17 @@
+C:\Users\yantao\Desktop\Catch-IDS-master\Lan_Ids\obj\x86\Debug\入侵检测系统.exe
+C:\Users\yantao\Desktop\Catch-IDS-master\Lan_Ids\obj\x86\Debug\入侵检测系统.pdb
+C:\Users\yantao\Desktop\Catch-IDS-master\Lan_Ids\bin\Debug\入侵检测系统.exe
+C:\Users\yantao\Desktop\Catch-IDS-master\Lan_Ids\bin\Debug\入侵检测系统.pdb
+C:\Users\yantao\Desktop\Catch-IDS-master\Lan_Ids\obj\x86\Debug\入侵检测系统.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\14200135116闫涛信息安全期末大作业\源码\Lan_Ids\obj\x86\Debug\入侵检测系统.exe
+C:\Users\Administrator\Desktop\14200135116闫涛信息安全期末大作业\源码\Lan_Ids\obj\x86\Debug\入侵检测系统.pdb
+C:\Users\Administrator\Desktop\14200135116闫涛信息安全期末大作业\源码\Lan_Ids\bin\Debug\入侵检测系统.exe
+C:\Users\Administrator\Desktop\14200135116闫涛信息安全期末大作业\源码\Lan_Ids\bin\Debug\入侵检测系统.pdb
+C:\Users\Administrator\Desktop\14200135116闫涛信息安全期末大作业\源码\Lan_Ids\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\dasan\网络安全上机报告及大作业\系统代码\Lan_Ids\bin\Debug\入侵检测系统.exe
+E:\dasan\网络安全上机报告及大作业\系统代码\Lan_Ids\bin\Debug\入侵检测系统.pdb
+E:\dasan\网络安全上机报告及大作业\系统代码\Lan_Ids\obj\x86\Debug\入侵检测系统.csprojAssemblyReference.cache
+E:\dasan\网络安全上机报告及大作业\系统代码\Lan_Ids\obj\x86\Debug\入侵检测系统.csproj.CoreCompileInputs.cache
+E:\dasan\网络安全上机报告及大作业\系统代码\Lan_Ids\obj\x86\Debug\入侵检测系统.csproj.CopyComplete
+E:\dasan\网络安全上机报告及大作业\系统代码\Lan_Ids\obj\x86\Debug\入侵检测系统.exe
+E:\dasan\网络安全上机报告及大作业\系统代码\Lan_Ids\obj\x86\Debug\入侵检测系统.pdb
