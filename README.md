@@ -23,5 +23,5 @@
 技术要求：入侵检测系统需要更多的智能，它必须可以将得到的数据进行分析，并得出有用的结果。一个合格的入侵检测系统能大大的简化管理员的工作，保证网络安全的运行
 
 系统部署：入侵检测系统是处于防火墙之后对网络活动的实时监控，不仅能检测来自外部的入侵行为，同时也监督内部用户的未授权活动
-![photo](https://github.com/KaryKim/C/edit/71.png)
-![photo](https://github.com/KaryKim/C/edit/991.png)
+![photo](https://github.com/KaryKim/C/blob/master/71.png)
+![photo](https://github.com/KaryKim/C/blob/master/991.png)
